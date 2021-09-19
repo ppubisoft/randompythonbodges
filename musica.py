@@ -105,4 +105,4 @@ async def on_ready():
     print(f"Logged on as {bot.user}")
 
 bot.add_cog(music(bot))
-bot.run("ODIwMjQ5MDc3NjkzNjc3NTk5.YEyaew.zOAdHdzT9-BSeQW3siKlHz7B0Fg")
+bot.run()
